@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Miraj Kazi</h1>
 <h3 align="center">A passionate data analyst from India.</h3>
 
-- 🌱 I’m currently learning **SQL, Power Bi, Python**
+- 📊 Payroll Analyst | Python & SQL | Power BI | Advanced Excel
 
+2+ years of experience managing payroll for 2000+ employees. Skilled in data analysis, automation, and ensuring accuracy in complex payroll systems. Proficient in Python, SQL, Power BI, and Advanced Excel. Passionate about leveraging data to drive efficiency.
+
+🔗 Let’s connect and collaborate!
+
+"Turning data into solutions."
 - 📫 How to reach me **mirajkazi08@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
